@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\bin\Debug\net9.0\06.TravelSavings.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\bin\Debug\net9.0\06.TravelSavings.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\bin\Debug\net9.0\06.TravelSavings.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\bin\Debug\net9.0\06.TravelSavings.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\bin\Debug\net9.0\06.TravelSavings.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\obj\Debug\net9.0\06.TravelSavings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\obj\Debug\net9.0\06.TravelSavings.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\obj\Debug\net9.0\06.TravelSavings.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\obj\Debug\net9.0\06.TravelSavings.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\obj\Debug\net9.0\06.TravelSavings.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\obj\Debug\net9.0\06.TravelSavings.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\obj\Debug\net9.0\refint\06.TravelSavings.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\obj\Debug\net9.0\06.TravelSavings.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\obj\Debug\net9.0\06.TravelSavings.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\06.TravelSavings\obj\Debug\net9.0\ref\06.TravelSavings.dll
