@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\bin\Debug\net9.0\08.PrimeNums.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\bin\Debug\net9.0\08.PrimeNums.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\bin\Debug\net9.0\08.PrimeNums.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\bin\Debug\net9.0\08.PrimeNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\bin\Debug\net9.0\08.PrimeNums.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\obj\Debug\net9.0\08.PrimeNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\obj\Debug\net9.0\08.PrimeNums.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\obj\Debug\net9.0\08.PrimeNums.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\obj\Debug\net9.0\08.PrimeNums.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\obj\Debug\net9.0\08.PrimeNums.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\obj\Debug\net9.0\08.PrimeNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\obj\Debug\net9.0\refint\08.PrimeNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\obj\Debug\net9.0\08.PrimeNums.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\obj\Debug\net9.0\08.PrimeNums.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\08.PrimeNums\obj\Debug\net9.0\ref\08.PrimeNums.dll

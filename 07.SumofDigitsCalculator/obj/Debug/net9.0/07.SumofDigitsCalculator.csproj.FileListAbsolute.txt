@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\bin\Debug\net9.0\07.SumofDigitsCalculator.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\bin\Debug\net9.0\07.SumofDigitsCalculator.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\bin\Debug\net9.0\07.SumofDigitsCalculator.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\bin\Debug\net9.0\07.SumofDigitsCalculator.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\bin\Debug\net9.0\07.SumofDigitsCalculator.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\obj\Debug\net9.0\07.SumofDigitsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\obj\Debug\net9.0\07.SumofDigitsCalculator.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\obj\Debug\net9.0\07.SumofDigitsCalculator.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\obj\Debug\net9.0\07.SumofDigitsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\obj\Debug\net9.0\07.SumofDigitsCalculator.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\obj\Debug\net9.0\07.SumofDigitsCalculator.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\obj\Debug\net9.0\refint\07.SumofDigitsCalculator.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\obj\Debug\net9.0\07.SumofDigitsCalculator.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\obj\Debug\net9.0\07.SumofDigitsCalculator.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\07.SumofDigitsCalculator\obj\Debug\net9.0\ref\07.SumofDigitsCalculator.dll
