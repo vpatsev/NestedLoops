@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\bin\Debug\net9.0\3.TriangleofStars.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\bin\Debug\net9.0\3.TriangleofStars.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\bin\Debug\net9.0\3.TriangleofStars.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\bin\Debug\net9.0\3.TriangleofStars.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\bin\Debug\net9.0\3.TriangleofStars.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\obj\Debug\net9.0\3.TriangleofStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\obj\Debug\net9.0\3.TriangleofStars.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\obj\Debug\net9.0\3.TriangleofStars.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\obj\Debug\net9.0\3.TriangleofStars.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\obj\Debug\net9.0\3.TriangleofStars.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\obj\Debug\net9.0\3.TriangleofStars.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\obj\Debug\net9.0\refint\3.TriangleofStars.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\obj\Debug\net9.0\3.TriangleofStars.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\obj\Debug\net9.0\3.TriangleofStars.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\3.TriangleofStars\obj\Debug\net9.0\ref\3.TriangleofStars.dll

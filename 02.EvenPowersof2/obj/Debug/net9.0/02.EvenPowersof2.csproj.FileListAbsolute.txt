@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\bin\Debug\net9.0\02.EvenPowersof2.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\bin\Debug\net9.0\02.EvenPowersof2.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\bin\Debug\net9.0\02.EvenPowersof2.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\bin\Debug\net9.0\02.EvenPowersof2.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\bin\Debug\net9.0\02.EvenPowersof2.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\obj\Debug\net9.0\02.EvenPowersof2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\obj\Debug\net9.0\02.EvenPowersof2.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\obj\Debug\net9.0\02.EvenPowersof2.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\obj\Debug\net9.0\02.EvenPowersof2.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\obj\Debug\net9.0\02.EvenPowersof2.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\obj\Debug\net9.0\02.EvenPowersof2.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\obj\Debug\net9.0\refint\02.EvenPowersof2.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\obj\Debug\net9.0\02.EvenPowersof2.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\obj\Debug\net9.0\02.EvenPowersof2.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\NestedLoops\02.EvenPowersof2\obj\Debug\net9.0\ref\02.EvenPowersof2.dll
